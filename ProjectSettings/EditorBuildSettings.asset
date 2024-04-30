@@ -15,20 +15,38 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 1.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
+    path: Assets/Scenes/Level1Complete.unity
+    guid: 7593719d7e3368a4f9a307d8b92d3a02
+  - enabled: 1
     path: Assets/Scenes/Level 9 (Jack Adams).unity
     guid: 4a6f4277cf1f54043b096964d43323bb
+  - enabled: 1
+    path: Assets/Scenes/Level2Complete.unity
+    guid: a00431637c0a6ee46b2d3a63eb5d6d0e
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: 2a9b55d615c633b4b99481bd0bce3d5b
   - enabled: 1
+    path: Assets/Scenes/Level3Complete 1.unity
+    guid: 27adc526555959f4cbb99a82674b102f
+  - enabled: 1
     path: Assets/Scenes/Level 3.unity
     guid: 1b2ab0633155f414f9cd6086e7de539e
+  - enabled: 1
+    path: Assets/Scenes/Level4Complete 2.unity
+    guid: f91248af42efa7f4896f75fd10e84d18
   - enabled: 1
     path: Assets/Scenes/Level 4.unity
     guid: 6c6d457a92554b04f86269e50d18f87e
   - enabled: 1
+    path: Assets/Scenes/Level5Complete 3.unity
+    guid: 5f01a21882b27b04cb47cd2b04912b90
+  - enabled: 1
     path: Assets/Scenes/Level 5 (Ethan Davis).unity
     guid: b7d375500049e004da011fe3e2c27eb4
+  - enabled: 1
+    path: Assets/Scenes/Level6Complete 4.unity
+    guid: ab88399a91e3b1a48ad9a4659b0e3751
   - enabled: 1
     path: Assets/Scenes/Level 7 (Taggert).unity
     guid: 9649a2074c6be2144ad893e55e750e38
